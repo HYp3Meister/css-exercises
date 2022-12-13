@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.leftbtn, .rightbtn{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+.leftbtn{
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+}
+.rightbtn{
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+}
